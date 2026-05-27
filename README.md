@@ -153,7 +153,7 @@ A Python-based encryption tool that secures files with expiration-based access c
 
 ### Email
 
-[tyagi.lakshy@gmail.com](mailto:tyagi.lakshy2004@gmail.com)
+[tyagi.lakshya2004@gmail.com](mailto:tyagi.lakshy2004@gmail.com)
 
 ---
 
