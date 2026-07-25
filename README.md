@@ -2,12 +2,22 @@
 <h3 align="center">Cybersecurity Engineer | Network Security | Building Security Tools From First Principles</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-1A5276?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scapy-3C3C3C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM-4B0082?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -125,40 +135,6 @@ DSA                        ███████░░░
 OS & Concurrency           ██████░░░░
 Databases                  █████░░░░░
 ```
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python · C/C++ · Java · HTML
-
-**Security & Networking:** Scapy · Wireshark · Nmap · Metasploit · Nessus · Burp Suite · TCP/IP
-
-**Tools:** Git · GitHub · Linux · VS Code · Wazuh
-
----
-
-## $ principles
-
-```
-• Understand the packet before you trust the alert.
-• Build tools that survive real traffic, not just demos.
-• Defense is a discipline, not a one-time feature.
-• Read the RFC before the blog post.
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshyatyagi07&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyatyagi07&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lakshyatyagi07&theme=dark&hide_border=true" />
-</p>
 
 ---
 
