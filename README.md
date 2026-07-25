@@ -1,184 +1,175 @@
-# Hi, I'm Lakshya Tyagi 👋
+<h1 align="center">Hi, I'm Lakshya Tyagi 👋</h1>
+<h3 align="center">Cybersecurity Engineer | Network Security | Building Security Tools From First Principles</h3>
 
-🎓 B.Tech Computer Science Engineering (Cyber Security)
-
-🔐 Cybersecurity and Networking Enthusiast focused on building practical security tools and understanding how systems work internally.
-
-💻 Currently working on projects related to:
-
-* Packet Analysis
-* Network Security
-* Honeypots
-* Python Automation
-* Traffic Monitoring
-* Encryption Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## $ whoami
 
-## 🔍 Packet Sniffer
-
-A modular Python-based network packet sniffer built using Scapy.
-
-### Features
-
-* Real-time packet capture
-* TCP/UDP/ICMP packet parsing
-* Protocol filtering
-* JSON logging
-* Packet statistics
-* Colored terminal output
-* Planned IDS-style detection features
-
-### Tech Used
-
-* Python
-* Scapy
-* Networking Concepts
-* TCP/IP
-* JSON
-
-🔗 Repository Link: Add your repo link here
+```
+Name      : Lakshya Tyagi
+Role      : Cybersecurity Student (Final Year, B.Tech CSE - Cyber Security)
+Currently : Interning @ IBM — building a Network Intrusion Detection System
+Location  : India 🇮🇳
+Status    : Placement season — building, breaking, and defending networks
+```
 
 ---
 
-## 🍯 Honeypot Project
+## $ building
 
-A cybersecurity project designed to simulate vulnerable services and log suspicious activity.
-
-### Features
-
-* Connection logging
-* Fake shell/service simulation
-* Session tracking
-* Attack monitoring
-* Planned analytics dashboard
-
-### Tech Used
-
-* Python
-* Socket Programming
-* Logging
-* Linux Networking
-
-🔗 Repository Link: Add your repo link here
+```
+Phalcon
+└── Python/Scapy-based Network Intrusion Detection System
+    ├── SYN flood, port sweep & brute-force detection
+    ├── Payload signature matching + ARP spoof detection
+    ├── Alert cooldown, whitelisting, configurable thresholds
+    └── Live Streamlit dashboard for real-time monitoring
+```
 
 ---
 
-## 🔐 Time-Bound Encryption Tool
+## 🚀 Featured Projects
 
-A Python-based encryption tool that secures files with expiration-based access control.
+<table>
+<tr>
+<td width="50%">
 
-### Features
+### 🛡️ Phalcon — NIDS
+Real-time network intrusion detection system with rule-based
+detection engine and a Streamlit monitoring dashboard.
 
-* File encryption
-* Expiration-based access
-* Secure key handling
-* Integrity verification
-* Planned secure deletion support
+`Python` `Scapy` `Streamlit` `Threading`
 
-### Tech Used
+</td>
+<td width="50%">
 
-* Python
-* Cryptography
-* AES/Fernet
-* Security Concepts
+### 🔍 Packet Sniffer
+Modular network packet sniffer for real-time traffic analysis,
+protocol inspection, and packet-level monitoring.
 
-🔗 Repository Link: Add your repo link here
+`Python` `Scapy` `TCP/IP`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-# 🛠 Tech Stack
+### 🍯 Honeypot Decoy System
+Simulates vulnerable services, logs attacker IPs/timestamps/login
+attempts, and maps behavior to the MITRE ATT&CK framework.
 
-### Languages
+`Python` `Paramiko` `MITRE ATT&CK`
 
-* Python
-* Java
-* C
-* HTML
+</td>
+<td width="50%">
 
-### Cybersecurity & Networking
+### 🔐 Time-Bound Encryption System
+Secures files with expiration-based access control and
+cryptographic integrity verification.
 
-* Scapy
-* Packet Analysis
-* TCP/IP
-* Linux Basics
-* Socket Programming
-* Wireshark
+`Java` `Cryptography` `AES/Fernet`
 
-### Tools
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-* Git
-* GitHub
-* VS Code
-* Linux
+### 🖥️ SOC Lab
+Built a Wazuh SIEM lab ingesting Windows/Linux logs and live
+traffic, with alert-triage rubrics for brute-force & scan detection.
 
----
+`Wazuh` `Wireshark` `Nmap` `Nessus`
 
-# 📚 Currently Learning
+</td>
+<td width="50%">
 
-* Advanced Networking
+### 🏆 Achievements
+Top 40 teams (university level) at Smart India Hackathon (SIH).
 
-* Linux Internals
+Also built responsive BMS dashboard UIs as a Web Design Intern
+@ Techyon Automotive.
 
-* Threat Detection
-
-* SOC Fundamentals
-
-* Python for Security Automation
-
----
-
-# 🎯 Goals
-
-* Build industry-level cybersecurity projects
-* Become job-ready in cybersecurity and networking
-* Strengthen Linux and network security skills
-* Contribute to open-source security tooling in future
-
-#
+</td>
+</tr>
+</table>
 
 ---
 
-# 📫 Connect With Me
+## $ roadmap
 
-### LinkedIn
+```
+Networking & Systems
 
-[www.linkedin.com/in/lakshyatyagi07](http://www.linkedin.com/in/lakshyatyagi07)
+TCP/IP & Packet Analysis   ████████░░
+Linux Internals            ███████░░░
+Network Security           ████████░░
 
-### GitHub
+Security Engineering
 
-[https://github.com/lakshyatyagi07](https://github.com/lakshyatyagi07)
+Threat Detection           ███████░░░
+SOC Fundamentals           ██████░░░░
+Rule-Based IDS Design      ████████░░
 
-### Email
+Core CS
 
-[tyagi.lakshya2004@gmail.com](mailto:tyagi.lakshy2004@gmail.com)
-
----
-
-# ⚡ What I Like Working On
-
-* Network Traffic Analysis
-* Security Tool Development
-* Linux Networking
-* Cybersecurity Automation
-* Packet-Level Monitoring
-* Defensive Security Concepts
+DSA                        ███████░░░
+OS & Concurrency           ██████░░░░
+Databases                  █████░░░░░
+```
 
 ---
 
-# 🧠 Current Focus
+## 🛠 Tech Stack
 
-Right now I am focused on improving my understanding of:
+**Languages:** Python · C/C++ · Java · HTML
 
-* Networking fundamentals
-* Security engineering concepts
-* Building modular cybersecurity tools
-* Writing cleaner and more scalable Python code
+**Security & Networking:** Scapy · Wireshark · Nmap · Metasploit · Nessus · Burp Suite · TCP/IP
+
+**Tools:** Git · GitHub · Linux · VS Code · Wazuh
 
 ---
 
-# ⚠ Important Note
+## $ principles
 
-This profile is actively evolving as I continue learning, building, and improving my cybersecurity and networking skills through hands-on projects.
+```
+• Understand the packet before you trust the alert.
+• Build tools that survive real traffic, not just demos.
+• Defense is a discipline, not a one-time feature.
+• Read the RFC before the blog post.
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshyatyagi07&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyatyagi07&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lakshyatyagi07&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/lakshyatyagi07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/lakshyatyagi07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:tyagi.lakshya2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>This profile is actively evolving as I build, break, and defend more systems.</i></p>
